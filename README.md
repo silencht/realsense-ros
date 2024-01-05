@@ -1,4 +1,5 @@
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
+# This is a ROS1 Driver Package For Realsense d400 series. ROS1! NOT ROS2! 
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
 This version supports Kinetic, Melodic and Noetic distributions.
