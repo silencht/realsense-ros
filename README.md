@@ -1,5 +1,7 @@
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
 # This is a ROS1 Driver Package For Realsense d400 series. ROS1! NOT ROS2! 
+## [imu_utils](https://github.com/silencht/imu_utils),[code_utils](https://github.com/silencht/code_utils) ,[Kalibr](https://github.com/silencht/kalibr) and [realsense-ros](https://github.com/silencht/realsense-ros) 四个仓库用于Realsense d400系列相机的IMU+双目标定
+## 标定流程记录于https://github.com/silencht/imu_utils/blob/master/kalibr-note/kalibr_note.md
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
 This version supports Kinetic, Melodic and Noetic distributions.
